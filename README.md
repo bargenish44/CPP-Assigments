@@ -76,3 +76,35 @@ The game may also be played by two teams of 2–3 players, with the team members
 A computer program moo, written in 1970 by J. M. Grochow at MIT in the PL/I computer language for the Multics operating system, was amongst the first Bulls and Cows computer implementations, inspired by a similar program written by Frank King in 1968 and running on the Cambridge University mainframe. Because the game has simple rules, while it is difficult and entertaining, there are many computer variants; it is often included in telephones and PDAs.
 
 It is proven that any number could be solved within seven turns. Minimal average game length is 26274/5040=5.2131 turns.[1][2]
+
+
+# 5) Itertools
+
+
+This project represent iterable class.
+
+We build 5 containers:
+
+### range :
+
+Used as a more readable equivalent to the traditional for loop operating over a range of values, such as all elements in a container.
+
+### chain :
+
+represent combining between 2 containers (include string).
+
+### zip :
+
+represent parallel connection between 2 containers.
+
+### product : 
+
+represent Cartesian product between 2 containers.
+
+### powerset :
+
+represent all the sub-groups of container.
+
+### what is iterable?
+
+allows an object to be the target of the "foreach" statement.
