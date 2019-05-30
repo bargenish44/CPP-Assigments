@@ -6,9 +6,6 @@
 
 ### Bar genish - 313174583
 
-### Grades:
-
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/Grade.JPG?raw=true)
 
 ### 1) Linux Compilation Test
 
